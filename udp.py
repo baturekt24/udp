@@ -1,7 +1,7 @@
 import socket
 import struct
 
-LISTEN_IP = "192.168.1.2" # Listen on all interfaces
+LISTEN_IP = "192.168.1.95" # Listen on all interfaces
 LISTEN_PORT = 6102
 PACKET_SIZE = 19
 
